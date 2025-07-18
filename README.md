@@ -1,7 +1,5 @@
 # T-Shirt Generator App
 
-![Demo Video](https://vimeo.com/892437282?share=copy)
-
 [Watch Demo Video](https://vimeo.com/892437282?share=copy)
 
 ## Overview
